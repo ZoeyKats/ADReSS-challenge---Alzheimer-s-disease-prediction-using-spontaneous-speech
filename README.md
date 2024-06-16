@@ -10,8 +10,8 @@ The repository is seperated in 3 folders. Each folder contains the file that cre
 2) BERT dataset: The dataset i used for BERT, and also BERT used in transfer learning
 3) Combined dataset: Basically the characteristics dataset combined with sklearn's CountVectorizer. This particular combination could be adjusted to the characteristics dataset, but i wanted to see the differences in the results when i used the CountVectorizer and when i didn't so i seperated them.
 
-Results: There are many different results, but the best model acheived the following scores for the test set: 
-f1 score:  0.9165217391304347
-accuracy:  0.9166666666666666
-precision: 0.9195804195804196
-recall:  0.9166666666666666
+Results: There are many different results, but the best model acheived the following scores for the test set: < br / >
+f1 score:  0.9165217391304347 < br / >
+accuracy:  0.9166666666666666 < br / >
+precision: 0.9195804195804196 < br / >
+recall:  0.9166666666666666 < br / >
