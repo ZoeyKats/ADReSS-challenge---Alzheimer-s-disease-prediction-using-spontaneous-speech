@@ -11,6 +11,7 @@ The repository is seperated in 3 folders. Each folder contains the file that cre
 3) Combined dataset: Basically the characteristics dataset combined with sklearn's CountVectorizer. This particular combination could be adjusted to the characteristics dataset, but i wanted to see the differences in the results when i used the CountVectorizer and when i didn't so i seperated them.
 
 Results: There are many different results, but the best model acheived the following scores for the test set: <br/>
+<br/>
 f1 score:  0.9165217391304347 <br/>
 accuracy:  0.9166666666666666 <br/>
 precision: 0.9195804195804196 <br/>
